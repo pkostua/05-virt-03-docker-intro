@@ -10,7 +10,8 @@
    ![image](https://github.com/user-attachments/assets/b4e4e3f5-998b-4db6-bf14-3d24a1f90002)
    ![image](https://github.com/user-attachments/assets/01ab2ccd-9384-4999-85fd-c619b0cbc5c8)
    ## Задание 4. Где мои файлы?
-   
+   ![image](https://github.com/user-attachments/assets/2b99b4f7-9321-412e-bd8d-84cf337491ea)
+
    ## Задание 5. Где мои конфиги?
   ![image](https://github.com/user-attachments/assets/fdd9d110-9bf8-48c6-9dad-b684ccac53bb)
   ![image](https://github.com/user-attachments/assets/8b914eea-1f79-42d8-9afd-30b4cffe84a5)

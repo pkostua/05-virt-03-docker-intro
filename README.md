@@ -1,14 +1,15 @@
 # 05-virt-03-docker-intro
-   ## Задание 1
+   ## Задание 1. Где мои образы?
     https://hub.docker.com/repository/docker/pkostua/custom-nginx/general
-   ## Задание 2
+   ## Задание 2. Где мои контейнеры?
    ![image](https://github.com/user-attachments/assets/4d84973d-74ed-4128-b0d8-853847cac0c5)
-   ## Задание 3
+   ## Задание 3. Где мои порты?
    ![image](https://github.com/user-attachments/assets/9b0d653d-4940-4186-b6f4-aeb7baa6a3b9)
    ![image](https://github.com/user-attachments/assets/b4e4e3f5-998b-4db6-bf14-3d24a1f90002)
    ![image](https://github.com/user-attachments/assets/01ab2ccd-9384-4999-85fd-c619b0cbc5c8)
-
-   ## Задание 5
+   ## Задание 4. Где мои файлы?
+   
+   ## Задание 5. Где мои конфиги?
   ![image](https://github.com/user-attachments/assets/fdd9d110-9bf8-48c6-9dad-b684ccac53bb)
   ![image](https://github.com/user-attachments/assets/8b914eea-1f79-42d8-9afd-30b4cffe84a5)
   ![image](https://github.com/user-attachments/assets/a2441b63-4e1e-4281-b532-dabfeb213389)

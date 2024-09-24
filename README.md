@@ -7,5 +7,15 @@
    ![image](https://github.com/user-attachments/assets/b4e4e3f5-998b-4db6-bf14-3d24a1f90002)
    ![image](https://github.com/user-attachments/assets/01ab2ccd-9384-4999-85fd-c619b0cbc5c8)
 
+  ## Задание 5
+  ![image](https://github.com/user-attachments/assets/fdd9d110-9bf8-48c6-9dad-b684ccac53bb)
+  ![image](https://github.com/user-attachments/assets/8b914eea-1f79-42d8-9afd-30b4cffe84a5)
+  ![image](https://github.com/user-attachments/assets/a2441b63-4e1e-4281-b532-dabfeb213389)
+  ![image](https://github.com/user-attachments/assets/096d3f7d-41cb-4cca-928d-3fdef788a369)
+
+
+
+
+
 
 

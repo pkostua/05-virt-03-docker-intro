@@ -1,6 +1,6 @@
 # 05-virt-03-docker-intro
 Решение домашнего задания к занятию 4. «Оркестрация группой Docker контейнеров на примере Docker Compose»
-Текст задания https://github.com/netology-code/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/README.md
+https://github.com/netology-code/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/README.md
    ## Задание 1. Где мои образы?
     https://hub.docker.com/repository/docker/pkostua/custom-nginx/general
    ## Задание 2. Где мои контейнеры?
